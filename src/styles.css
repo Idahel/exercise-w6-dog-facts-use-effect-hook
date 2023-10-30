@@ -1,1 +1,27 @@
 /* Start Adding your CSS here */
+body {
+    background-color: rgb(18, 5, 162);
+    color: rgb(255, 214, 222);
+    font-family: 'Satoshi', sans-serif;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+.fact {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.dog-button {
+    background-color: rgb(255, 214, 222);
+    color: rgb(18, 5, 162);
+    border: none;
+    border-radius: 15px;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bolder;
+}
